@@ -315,9 +315,8 @@ Check out either [My Notion(in Kor)](https://www.notion.so/shlee9605/959ac634936
   
 # 5. Used Concept
   
-CRUD구조 같은 거
+
   
 # 6. Usage Example
   
-프로그램 예시
-  
+
